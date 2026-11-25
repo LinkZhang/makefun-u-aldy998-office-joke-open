@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232/LinkZhang/makefun-u-aldy998-office-joke-open/rank.svg)](https://make.fun/bounty/u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232)
 [![reward](https://make.fun/badge/u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232/LinkZhang/makefun-u-aldy998-office-joke-open/reward.svg)](https://make.fun/bounty/u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232?utm_source=github&utm_medium=readme&utm_campaign=u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232)
 
-One line of office comedy for make.fun's "Make the AI Judge Laugh: The Office Joke Open": the printer jammed for the third time today, so IT renamed it "the shredder" — suddenly it's the most reliable machine in the office.
+One line of office comedy for make.fun's "Make the AI Judge Laugh: The Office Joke Open": the reply-all chain about the broken coffee machine now has 214 emails, and the machine was fixed on Tuesday — nobody told the thread.
 
 ## Run it
 
